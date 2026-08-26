@@ -8,6 +8,14 @@ Agency Agents OS is a curated directory of AI agents, organized as broad, focuse
 
 This project is independent of, but built to work with, the [Muapi API](https://muapi.ai) — a unified API for 500+ generative-media models (video, image, voice, audio, 3D). Agents here reference Muapi's public API surfaces for execution; no Muapi source code or private implementation details live in this catalog.
 
+## Related Projects
+
+- [MuAPI](https://muapi.ai) — the unified generative-media API this catalog's Blueprint agents are built on.
+- [MuAPI Quick Start](https://muapi.ai/docs/quick-start) — create the API key every agent in this catalog needs.
+- [MuAPI MCP docs](https://muapi.ai/docs/mcp) — connect any agent's `SKILL.md` to Claude, Cursor, Windsurf, or another MCP client.
+- [MuAPI Agent Skills](https://muapi.ai/docs/agent-skills) — background on the `SKILL.md` pattern every umbrella repo in this catalog uses.
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — MuAPI's broader open-source generative-media ecosystem hub.
+
 ## Why umbrella repos, not micro-repos
 
 A directory of 100+ single-purpose repos (`email-verification-agent`, `funding-signals-agent`, ...) is hard to browse, duplicates maintenance overhead, and doesn't rank for anything. Instead, each umbrella repo is a broad, high-search-volume category (e.g. "AI video agent," "AI SEO agent") that houses several narrower sub-agents as sections inside itself. A sub-agent is promoted to its own umbrella only once its own search volume and capability set justify it.
