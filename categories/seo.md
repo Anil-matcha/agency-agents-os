@@ -2,7 +2,7 @@
 
 | Umbrella repo | Covers | Status |
 |---|---|---|
-| `ai-seo-agent` | Rank tracking, competitor SEO, content gap analysis, news monitoring, ASO, local SEO, backlink intelligence | Coming Soon |
-| `ai-aeo-geo-agent` | Answer/generative-engine optimization — getting cited by ChatGPT, Perplexity, Gemini, Claude | Coming Soon |
+| [`ai-seo-agent`](https://github.com/SamurAIGPT/ai-seo-agent) | Rank tracking, competitor SEO, content gap analysis, local SEO, backlink intelligence, news monitoring, ASO | Blueprint |
+| [`ai-aeo-geo-agent`](https://github.com/SamurAIGPT/ai-aeo-geo-agent) | Answer/generative-engine optimization — getting cited by ChatGPT, Google AI Overviews, Claude, Gemini, Perplexity | Blueprint |
 
-Not yet published — these umbrellas depend on non-media API surfaces (search performance, keyword research, SERP data) that aren't live on Muapi yet. See the [status labels](../README.md#status-labels) for what "Coming Soon" means.
+Both umbrellas are built on Muapi's live SEO API — domain/keyword/SERP/backlink/local-business data, plus AI-mention and live-LLM-citation endpoints. A couple of sub-agents in each (SEO/PR news monitoring, ASO, and schema/FAQ-specific auditing) are still Coming Soon pending non-SEO data surfaces. See each repo's own README for the exact per-sub-agent breakdown.
