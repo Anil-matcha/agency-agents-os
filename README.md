@@ -2,7 +2,7 @@
 
 **An open ecosystem of specialized AI agents for real business work.**
 
-Discover agents for video, image, and voice production, YouTube growth, SEO, social media, advertising, sales, research, analytics, and more — powered by real APIs, not just prompts.
+Discover agents for video, image, and voice production, YouTube growth, SEO, social media, advertising, sales, research, analytics, go-to-market orchestration, and more — powered by real APIs, not just prompts.
 
 Agency Agents OS is a curated directory of AI agents, organized as broad, focused **umbrella repositories** (one per capability area) rather than hundreds of one-off micro-repos. Each umbrella repo bundles several related sub-agents so it's easy to browse, easy to maintain, and actually rankable on GitHub search.
 
@@ -28,6 +28,7 @@ A directory of 100+ single-purpose repos (`email-verification-agent`, `funding-s
 | Video production | [`ai-video-agent`](https://github.com/SamurAIGPT/ai-video-agent) | Blueprint |
 | Image / creative production | [`ai-image-agent`](https://github.com/SamurAIGPT/ai-image-agent) | Blueprint |
 | Voice, narration, dubbing, calling | [`ai-voice-agent`](https://github.com/SamurAIGPT/ai-voice-agent) | Blueprint |
+| Go-to-market strategy & orchestration | [`ai-gtm-agent`](https://github.com/SamurAIGPT/ai-gtm-agent) | Coming Soon |
 | SEO / organic growth | [`ai-seo-agent`](https://github.com/SamurAIGPT/ai-seo-agent) | Blueprint |
 | Answer/generative-engine optimization (AEO/GEO) | [`ai-aeo-geo-agent`](https://github.com/SamurAIGPT/ai-aeo-geo-agent) | Blueprint |
 | Social media management | [`ai-social-agent`](https://github.com/SamurAIGPT/ai-social-agent) | Blueprint |
