@@ -2,7 +2,7 @@
 
 | Umbrella repo | Covers | Status |
 |---|---|---|
-| [`ai-gtm-agent`](https://github.com/SamurAIGPT/ai-gtm-agent) | Shared GTM context, strategy routing, cross-channel launch planning, and performance review | Coming Soon |
+| [`open-ai-gtm-agent`](https://github.com/SamurAIGPT/open-ai-gtm-agent) | Shared GTM context, strategy routing, cross-channel launch planning, and performance review | Coming Soon |
 
 Go-to-market is a cross-functional umbrella. It coordinates the research,
 SEO, marketing, sales, advertising, social, media, analytics, e-commerce,

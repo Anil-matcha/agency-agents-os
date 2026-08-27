@@ -24,23 +24,23 @@ A directory of 100+ single-purpose repos (`email-verification-agent`, `funding-s
 
 | Category | Umbrella repo | Status |
 |---|---|---|
-| YouTube growth (VidIQ-style) | [`ai-youtube-agent`](https://github.com/SamurAIGPT/ai-youtube-agent) | Blueprint |
-| Video production | [`ai-video-agent`](https://github.com/SamurAIGPT/ai-video-agent) | Blueprint |
-| Image / creative production | [`ai-image-agent`](https://github.com/SamurAIGPT/ai-image-agent) | Blueprint |
-| Voice, narration, dubbing, calling | [`ai-voice-agent`](https://github.com/SamurAIGPT/ai-voice-agent) | Blueprint |
-| Go-to-market strategy & orchestration | [`ai-gtm-agent`](https://github.com/SamurAIGPT/ai-gtm-agent) | Coming Soon |
-| SEO / organic growth | [`ai-seo-agent`](https://github.com/SamurAIGPT/ai-seo-agent) | Blueprint |
-| Answer/generative-engine optimization (AEO/GEO) | [`ai-aeo-geo-agent`](https://github.com/SamurAIGPT/ai-aeo-geo-agent) | Blueprint |
-| Social media management | [`ai-social-agent`](https://github.com/SamurAIGPT/ai-social-agent) | Blueprint |
-| Content repurposing / clipping | [`ai-content-repurposing-agent`](https://github.com/SamurAIGPT/ai-content-repurposing-agent) | Blueprint |
-| Marketing (email, campaigns, product) | [`ai-marketing-agent`](https://github.com/SamurAIGPT/ai-marketing-agent) | Coming Soon |
-| Paid media (PPC, paid social, programmatic) | [`ai-ads-agent`](https://github.com/SamurAIGPT/ai-ads-agent) | Coming Soon |
-| E-commerce / CRO | [`ai-ecommerce-agent`](https://github.com/SamurAIGPT/ai-ecommerce-agent) | Coming Soon |
-| Sales / lead generation | [`ai-sales-agent`](https://github.com/SamurAIGPT/ai-sales-agent) | Coming Soon |
-| Research / audience & market research | [`ai-research-agent`](https://github.com/SamurAIGPT/ai-research-agent) | Coming Soon |
-| Analytics / reporting | [`ai-analytics-agent`](https://github.com/SamurAIGPT/ai-analytics-agent) | Coming Soon |
-| Competitive intelligence | [`ai-competitor-intelligence-agent`](https://github.com/SamurAIGPT/ai-competitor-intelligence-agent) | Coming Soon |
-| Reputation / PR / brand monitoring | [`ai-reputation-agent`](https://github.com/SamurAIGPT/ai-reputation-agent) | Coming Soon |
+| YouTube growth (VidIQ-style) | [`open-ai-youtube-agent`](https://github.com/SamurAIGPT/open-ai-youtube-agent) | Blueprint |
+| Video production | [`open-ai-video-agent`](https://github.com/SamurAIGPT/open-ai-video-agent) | Blueprint |
+| Image / creative production | [`open-ai-image-agent`](https://github.com/SamurAIGPT/open-ai-image-agent) | Blueprint |
+| Voice, narration, dubbing, calling | [`open-ai-voice-agent`](https://github.com/SamurAIGPT/open-ai-voice-agent) | Blueprint |
+| Go-to-market strategy & orchestration | [`open-ai-gtm-agent`](https://github.com/SamurAIGPT/open-ai-gtm-agent) | Coming Soon |
+| SEO / organic growth | [`open-ai-seo-agent`](https://github.com/SamurAIGPT/open-ai-seo-agent) | Blueprint |
+| Answer/generative-engine optimization (AEO/GEO) | [`open-ai-aeo-geo-agent`](https://github.com/SamurAIGPT/open-ai-aeo-geo-agent) | Blueprint |
+| Social media management | [`open-ai-social-agent`](https://github.com/SamurAIGPT/open-ai-social-agent) | Blueprint |
+| Content repurposing / clipping | [`open-ai-content-repurposing-agent`](https://github.com/SamurAIGPT/open-ai-content-repurposing-agent) | Blueprint |
+| Marketing (email, campaigns, product) | [`open-ai-marketing-agent`](https://github.com/SamurAIGPT/open-ai-marketing-agent) | Coming Soon |
+| Paid media (PPC, paid social, programmatic) | [`open-ai-ads-agent`](https://github.com/SamurAIGPT/open-ai-ads-agent) | Coming Soon |
+| E-commerce / CRO | [`open-ai-ecommerce-agent`](https://github.com/SamurAIGPT/open-ai-ecommerce-agent) | Coming Soon |
+| Sales / lead generation | [`open-ai-sales-agent`](https://github.com/SamurAIGPT/open-ai-sales-agent) | Coming Soon |
+| Research / audience & market research | [`open-ai-research-agent`](https://github.com/SamurAIGPT/open-ai-research-agent) | Coming Soon |
+| Analytics / reporting | [`open-ai-analytics-agent`](https://github.com/SamurAIGPT/open-ai-analytics-agent) | Coming Soon |
+| Competitive intelligence | [`open-ai-competitor-intelligence-agent`](https://github.com/SamurAIGPT/open-ai-competitor-intelligence-agent) | Coming Soon |
+| Reputation / PR / brand monitoring | [`open-ai-reputation-agent`](https://github.com/SamurAIGPT/open-ai-reputation-agent) | Coming Soon |
 
 A "Blueprint" umbrella means at least one sub-agent inside it is built on a live Muapi API — check that repo's own README for which specific sub-agents are live vs. still Coming Soon.
 
